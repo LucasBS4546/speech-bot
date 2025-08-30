@@ -1,0 +1,5 @@
+
+AUDIO_DIR: audio
+LANGUAGE: pt-BR
+HEADLESS: True
+HOTWORD: alexa

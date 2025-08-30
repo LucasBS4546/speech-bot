@@ -1,0 +1,2 @@
+class SpeechInterrupt(Exception):
+    pass
